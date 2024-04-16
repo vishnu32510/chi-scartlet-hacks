@@ -7,7 +7,7 @@
   <h3 align="center">Chi Planner</h3>
 
   <p align="center">
-    Appetizer IOS Application with SwiftUI and Api interfaces.
+    Chicago Places Event Planner.
     <br/>
     <br/>
 <!--     <a href="https://github.com/vishnu32510/Appetizer/blob/main/Demo/Appetizer%20Demo%20Video.mp4">View Demo</a> -->
@@ -21,7 +21,7 @@
 
 Built with Flutter SDK for seamless performance across Android and iOS, and Ruby on Rails for robust backend services, Chi Planner leverages a MySQL database to furnish users with essential data on must-visit places.
 
-The Backend API services and MySQL database is handled with Ruby on Rail, Ref: https://github.com/noviya23/ChiPlanner. Currently hostel Locally, to run backend follow instruction in this Repo.
+The Backend API services and MySQL database is handled with Ruby on Rail, Ref: [Planner backend Repo](https://github.com/noviya23/ChiPlanner). Currently hostel Locally, to run backend follow instruction in this Repo.
 
 ## Screenshots:
 ![PlacesList](https://github.com/vishnu32510/chi-scartlet-hacks/assets/76788079/7c425a36-6492-452e-8971-b26c10f26b8c)
@@ -30,7 +30,7 @@ The Backend API services and MySQL database is handled with Ruby on Rail, Ref: h
 
 ## Built With
 
-Flutter and Ruby on Rails with MySQL
+Flutter [Vishnu Priyan](https://github.com/vishnu32510) and Ruby on Rails with MySQL [Noviya](https://github.com/noviya23)
 
 ## Authors
 
