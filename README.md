@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/vishnu32510/chi-scartlet-hacks">
-    <img src="chi_scartlethack/assets/images/chicago.png" alt="Logo" width="80" height="80">
+    <img src="assets/images/chicago.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Appetizer IOS Application</h3>
