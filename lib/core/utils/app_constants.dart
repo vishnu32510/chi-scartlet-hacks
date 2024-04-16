@@ -1,5 +1,5 @@
 
 abstract class AppConstants {
   static const String appTitle = "Chicago";
-  static const baseUrl = 'http://104.194.121.86:3000/';
+  static const baseUrl = 'http://10.0.0.76:3000/';
 }
