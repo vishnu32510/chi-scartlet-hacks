@@ -4,7 +4,7 @@
     <img src="assets/images/chicago.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Appetizer IOS Application</h3>
+  <h3 align="center">Chi Planner</h3>
 
   <p align="center">
     Appetizer IOS Application with SwiftUI and Api interfaces.
@@ -17,7 +17,7 @@
 
 
 ## About The Project:
-Chi Planner is an innovative application designed to simplify event planning for users around Chicago. The app populates detailed information about various places of interest in the Chicago area, empowering users to plan their events effectively. Users can set a time interval for their visit, allowing them to organize their schedules efficiently.
+`Chi` is nothing but Chicago. `Chi Planner` is an innovative application designed to simplify event planning for users around Chicago. The app populates detailed information about various places of interest in the Chicago area, empowering users to plan their events effectively. Users can set a time interval for their visit, allowing them to organize their schedules efficiently.
 
 Built with Flutter SDK for seamless performance across Android and iOS, and Ruby on Rails for robust backend services, Chi Planner leverages a MySQL database to furnish users with essential data on must-visit places.
 
