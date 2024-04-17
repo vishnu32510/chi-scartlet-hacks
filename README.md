@@ -1,3 +1,5 @@
+
+https://github.com/vishnu32510/chi-scartlet-hacks/assets/76788079/37702c5c-1c4e-4057-8774-7fd4d45ff1f7
 <br/>
 <p align="center">
   <a href="https://github.com/vishnu32510/chi-scartlet-hacks">
@@ -10,7 +12,7 @@
     Chicago Places Event Planner.
     <br/>
     <br/>
-<!--     <a href="https://github.com/vishnu32510/Appetizer/blob/main/Demo/Appetizer%20Demo%20Video.mp4">View Demo</a> -->
+    <a href="https://github.com/vishnu32510/chi-scartlet-hacks/assets/76788079/d77a63e1-2369-439d-83a2-9351aa15f6ca">View Demo</a>
   </p>
 </p>
 
