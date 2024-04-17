@@ -1,5 +1,3 @@
-
-https://github.com/vishnu32510/chi-scartlet-hacks/assets/76788079/37702c5c-1c4e-4057-8774-7fd4d45ff1f7
 <br/>
 <p align="center">
   <a href="https://github.com/vishnu32510/chi-scartlet-hacks">
